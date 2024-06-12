@@ -2,6 +2,10 @@ body {
   font-family: sans-serif;
 }
 
+#container {
+  background-color: aqua;
+}
+
 #main_content {
   width:800px;
   margin:0 auto;
